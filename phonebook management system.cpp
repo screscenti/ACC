@@ -2,7 +2,7 @@
 # include <stdio.h>
 # include <alloc.h>
 # include <string.h>
-
+# change
 struct node
 {
     int num;
