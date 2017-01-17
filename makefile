@@ -1,2 +1,2 @@
 accmake: accmake.c accfunc.c
-	gcc -o bin/accmake accmake.c accfunc.c -I.
+	gcc -o bin/acc accmake.c accfunc.c -I.
