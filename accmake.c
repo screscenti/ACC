@@ -1,8 +1,8 @@
-#include <hellomake.h>
+#include <accmake.h>
 
 int main() {
   // call a function in another file
-  myPrintHelloMake();
+  myPrintAccMake();
 
   return(0);
 }
