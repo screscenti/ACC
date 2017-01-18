@@ -2,4 +2,4 @@
 example include file
 */
 
-void myPrintAccMakes(void);
+void myPrintAccMake(void);
