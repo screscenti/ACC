@@ -3,7 +3,7 @@
 
 void myPrintAccMake(void) {
 
-  printf("ACC makefiles!\n")
+  printf("ACC makefiles!\n");
 
   return;
 }
