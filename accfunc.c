@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <accmake.h>
 
-String myPrintAccMake(void) {
+char myPrintAccMake(void) {
 
   printf("ACC makefiles!\n");
 
