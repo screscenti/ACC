@@ -2,8 +2,7 @@
 #include <accmake.h>
 
 char myPrintAccMake(void) {
-
-  printf("ACC makefiles!\n");
-
-  return "ACC makefiles!\n";
+	char ret[30] = "ACC makefiles!\n";
+	printf(ret);
+	return ret;
 }
