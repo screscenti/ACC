@@ -1,1 +1,1 @@
-char * myPrintAccMake(void);
+const char * myPrintAccMake(void);
