@@ -1,5 +1,5 @@
 #include <check.h>
-#include "accmake.h"
+#include <accmake.h>
 
 START_TEST(test_myPrintAccMake)
 {
