@@ -29,7 +29,7 @@
 
 /*
    Macros and functions starting with _ (underscore) are internal and
-   may change without notice. You have been warned!.
+   may change without notice. You have been warned! June 2019
 */
 
 
