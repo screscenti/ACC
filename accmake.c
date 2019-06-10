@@ -2,6 +2,6 @@
 
 int main() {
   myPrintAccMake();
-
-  return(0);
+    return(0);
 }
+
