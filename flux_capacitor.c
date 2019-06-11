@@ -1,7 +1,7 @@
 
 /*  
  *
- * PIR sensor tester
+ * PIR sensor tester 
  */
  
 int ledPin = 13;                // choose the pin for the LED
