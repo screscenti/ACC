@@ -1,5 +1,5 @@
 
-/*
+/* 
  *
  * PIR sensor tester
  */
